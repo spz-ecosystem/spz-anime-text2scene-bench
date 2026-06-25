@@ -96,3 +96,5 @@ Winter Forest Cabin/
 
 **Dataset**: CC BY 4.0 — Junhan Pu, 2026
 **Code** (if any): MIT License — see [LICENSE](LICENSE) for details
+
+**DOI**: [10.5281/zenodo.20849135](https://doi.org/10.5281/zenodo.20849135)
