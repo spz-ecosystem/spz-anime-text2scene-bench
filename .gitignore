@@ -1,0 +1,12 @@
+# Large data files (to be distributed via GitHub Releases, not git LFS)
+raw/
+glb/
+ply/
+assets/
+*.spz
+*.ply
+*.glb
+*.png
+*.xlsx
+*.csv
+__pycache__/
