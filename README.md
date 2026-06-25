@@ -92,12 +92,6 @@ Winter Forest Cabin/
 - The views and opinions expressed in this project are solely those of the author
 - CC BY 4.0 applies — see [License](#license) for details
 
-## Cultural Note
-
-**Cultural Note:** This project is released in the year of the Red Fire Horse (Bingwu, 丙午), Huangdi Era 4723. It honors the ancient Chinese lunisolar calendar, a testament to humanity's enduring quest to harmonize with the cosmos.
-
-**文化注记：** 本项目发布于黄帝纪年四七二三年，岁次丙午（火马年）。致敬华夏先民观象授时、敬授民时的伟大智慧。
-
 ## License
 
 **Dataset**: CC BY 4.0 — Junhan Pu, 2026
